@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBootDemoforCAT.iml" filepath="$PROJECT_DIR$/SpringBootDemoforCAT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gsealy.iml" filepath="$PROJECT_DIR$/gsealy.iml" />
     </modules>
   </component>
 </project>
