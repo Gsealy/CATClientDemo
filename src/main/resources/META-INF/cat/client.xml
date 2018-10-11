@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<config mode="client">
-  <servers>
-    <server ip="10.20.88.222" port="2280"/>
-  </servers>
-  <domain id="webserver" enabled="true"/>
-</config>
